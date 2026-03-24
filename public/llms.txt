@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות מוצרי ציפורניים מקצועית עם מבחר עשיר של לק ג&#39;ל, ג&#39;ל בנייה וציוד מקצועי. כל מה שצריך לציפורניים מדהימות — במקום אחד. קני עכשיו!
+
+### למה פטית
+https://example.com/why-patit
+גלי למה מאות טכנאיות ציפורניים ולקוחות פרטיות בישראל בוחרות ב-Nails by PATIT. איכות מקצועית, מוצרים מובחרים וחוויית קנייה שלא תשכחי. הצטרפי אלינו!
+
+### השראה
+https://example.com/inspiration
+גלי גלריית השראה מרהיבה לעיצובי ציפורניים עם לק ג&#39;ל וג&#39;ל בנייה. טרנדים עדכניים, רעיונות יצירתיים ועיצובים שיעיפו לך את הדעת. תני לציפורניים שלך לדבר!
+
+### צור קשר
+https://example.com/contact
+יש שאלה על מוצרי ציפורניים, ציוד מקצועי או הזמנה? צוות Nails by PATIT כאן בשבילך. פני אלינו עכשיו ונעזור לך למצוא בדיוק את מה שחיפשת!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Nails by PATIT
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Nails by PATIT
+
+### Category
+https://example.com/category/:slug
+מוצרים - Nails by PATIT
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
